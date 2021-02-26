@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\блокнот\блокнот\bin\Debug\блокнот.exe.config
+C:\Users\ASUS\source\repos\блокнот\блокнот\bin\Debug\блокнот.exe
+C:\Users\ASUS\source\repos\блокнот\блокнот\bin\Debug\блокнот.pdb
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.Form1.resources
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.Properties.Resources.resources
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.exe
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.pdb
