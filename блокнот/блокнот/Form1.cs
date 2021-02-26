@@ -36,7 +36,7 @@ namespace блокнот
         public void CreateNewDocument(object sender, EventArgs e)
         {
             SaveUnsavedFile();
-            richTextBox1 = "";
+            richTextBox1.Text = string.Empty;
             filename = "";
             isFileChanged = false;
             UpdateTextWithTitle();
@@ -116,7 +116,7 @@ namespace блокнот
         }
         public void UpdateTextWithTitle()
         {
-            if(filename=!"")
+            if(filename!="")
             this.Text = filename + " - Блокнот";
             else this.Text = filename + "Новый текстовый документ - Блокнот";
         }
@@ -178,13 +178,7 @@ namespace блокнот
 
         private void OnFocus(object sender, EventArgs e)
         {
-            if(fs != null)
-            {
-                fontsize = FontSetts.fontsize;
-                fs = FontSetts.fs;
-                richTextBox1.Font = new Font(richTextBox1.Font.FontFamily, fontsize, fs);
-                FontSetts.Close();
-            }
+            
         }
     }
 }

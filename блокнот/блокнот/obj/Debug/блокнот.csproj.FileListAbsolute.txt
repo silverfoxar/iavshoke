@@ -8,3 +8,4 @@ C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокно�
 C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.exe
 C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.pdb
+C:\Users\ASUS\source\repos\блокнот\блокнот\obj\Debug\блокнот.FontSettings.resources
