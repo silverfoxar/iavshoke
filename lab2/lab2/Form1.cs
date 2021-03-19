@@ -70,12 +70,7 @@ namespace lab2
         private void Home(object sender, EventArgs e)
         {
             ((WebBrowser)tabControl1.SelectedTab.Controls[0]).GoHome();
-        }
-
-        private void Me(object sender, EventArgs e)
-        {
-            ((WebBrowser)tabControl1.SelectedTab.Controls[0]).Navigate("https://vk.com/sad_satan_s_cat");
-        }
+        }        
 
         private void Music(object sender, EventArgs e)
         {
